@@ -1,0 +1,11 @@
+.Nav{
+    text-align: center;
+}
+.Nav a{
+    display: block;
+    border-radius: 10px;
+    padding: 10px;
+}
+.Nav a:hover{
+    background-color: indianred;
+}
